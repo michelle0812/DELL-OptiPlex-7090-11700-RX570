@@ -1,5 +1,7 @@
 # Successed: DELL OptiPlex 7090 Tower
-![desktop_optiplex_7090_sff_mt_pdp_mod](https://user-images.githubusercontent.com/79300809/180197572-face0b87-3c74-43ba-9741-6d2866f36331.jpeg)
+
+![peripherals_desktop_desktop_7090_mt_gallery_3](https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg)
+
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-11700 Rocket Lake</td>

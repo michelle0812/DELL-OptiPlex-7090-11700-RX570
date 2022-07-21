@@ -1,6 +1,5 @@
 # Successed: DELL OptiPlex 7090 Tower
 
-![peripherals_desktop_desktop_7090_mt_gallery_3](https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg)
 <img width="450" alt="peripherals_desktop_desktop_7090_mt_gallery_3" src="https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg"><br>
 <table>
   <tr>

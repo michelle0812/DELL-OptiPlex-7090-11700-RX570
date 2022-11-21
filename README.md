@@ -22,6 +22,5 @@
   </tr>  
 </table>
 
-# 不支援處理器顯示晶片Intel® UHD750 
 <img src="https://user-images.githubusercontent.com/79300809/202954812-c62b204b-5a58-40a0-a4a2-8d6cfda68715.png"><br>
 <img width="450" alt="peripherals_desktop_desktop_7090_mt_gallery_3" src="https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg"><br>

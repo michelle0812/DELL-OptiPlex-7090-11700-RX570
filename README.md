@@ -15,7 +15,7 @@
     <td>顯示卡</td><td>Sapphire RX570 4GB</td>
   </tr>
   <tr>  
-    <td>固態硬碟</td><td>SN810 512GB PCIe Gen4</td>
+    <td>固態硬碟</td><td>Micron 2450 NVMe 512GB</td>
   </tr>
   <tr>
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>

@@ -18,7 +18,7 @@
     <td>固態硬碟</td><td>SN810 512GB PCIe Gen4</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.4 + OpenCore 0.8.2</td>
+    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
 </table>
 

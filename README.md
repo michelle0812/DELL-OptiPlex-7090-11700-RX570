@@ -18,7 +18,7 @@
     <td>固態硬碟</td><td>Micron 2450 NVMe 512GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
+    <td>系統</td><td>macOS Monterey 13.3 + OpenCore 0.9.1</td>
   </tr>  
 </table>
 

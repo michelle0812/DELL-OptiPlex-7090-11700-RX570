@@ -15,6 +15,9 @@
     <td>顯示卡</td><td>Sapphire RX570 4GB</td>
   </tr>
   <tr>
+    <td>WiFi藍芽</td><td>BCM 94360NG</td>
+  </tr>
+  <tr>
     <td>音效卡</td><td>Realtek ACL256</td>
   </tr>
   <tr>  

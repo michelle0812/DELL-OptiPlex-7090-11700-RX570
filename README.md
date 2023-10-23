@@ -28,11 +28,9 @@
   </tr>  
 </table>
 
-<img width="450" alt="截圖 2023-08-02 下午3 10 13" src="https://github.com/michelle0812/DELL-OptiPlex-7090-11700-RX570/assets/79300809/9b1fe9bc-8b20-4165-aed8-767400610424"><br>
-<img width="450" alt="截圖 2023-08-02 下午3 14 25" src="https://github.com/michelle0812/DELL-OptiPlex-7090-11700-RX570/assets/79300809/06082b04-ea41-4fa2-bfe7-0d1385ba7b06"><br>
+
 <img width="450" alt="peripherals_desktop_desktop_7090_mt_gallery_3" src="https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg"><br>
 
-<img width="450" alt="截圖 2023-08-02 下午3 12 03" src="https://github.com/michelle0812/DELL-OptiPlex-7090-11700-RX570/assets/79300809/250e8a5d-4ae9-415b-b7a0-372786ed84c5">
 
 
 

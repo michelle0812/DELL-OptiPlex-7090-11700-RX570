@@ -31,6 +31,8 @@
 
 <img width="450" alt="peripherals_desktop_desktop_7090_mt_gallery_3" src="https://user-images.githubusercontent.com/79300809/180198714-5ffb52c7-d09d-489a-bd3d-104be4e3ab3c.jpg"><br>
 
+<img width="450" alt="peripherals_desktop_desktop_7090_mt_gallery_4" src="https://github.com/weila000000/DELL-OptiPlex-7090-11700-RX570/assets/79300809/f16a8a89-f30e-4deb-abde-f4a8c8bb5e07"><br>
+
 
 
 
